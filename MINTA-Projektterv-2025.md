@@ -1,8 +1,11 @@
-# `Szallítmányozás` Projektterv `2021`
+# `Vasút` Projektterv `2025`
 
 ## 1. Összefoglaló 
 
-`A hatékony szállítmányozás lényege, hogy a küldemény a lehető legkisebb költséggel, legbiztonságosabban, és legoptimálisabb időben jusson el a rendeltetési helyére. Ez tipikusan megkövetel egy online is elérhető nyilvántartást, ahol rugalmasan és egyszerűen lehet kezelni a kapcsolódó feladatokat. Éppen ezért ennek a projektnek a célja, hogy a szállítmányozással foglalkozó cégek számára egy webalkalmazást fejlesszünk, amely képes leváltani a hagyományos, papír alapú nyilvántartásokat. Legyen szó árukészletről, sofőrökről vagy útvonalakról, a cél, hogy a kapcsolódó funkciókat egy letisztult felületen keresztül tudja elérni a szállítmányozással foglalkozó cég adminisztrátorai.`
+A projekt célja egy korszerű, felhasználóbarát webalkalmazás fejlesztése, amely egy vasúti applikáció funkcióit
+valósítja meg: menetrend keresés, jegyfoglalás, járatinformációk és felhasználói fiókkezelés. A rendszer asztali
+és mobil böngészőből is elérhető lesz, reszponzív kialakítással. 
+Az oldal célja átláthatobbá és gyorsabbá tenni a vasúti közlekedéssel való tájékozodást. 
 
 ```
 Ide írj egy tömör és általános leírást (4-6 mondatban), hogy miről szól a projekt és miért van a weboldalra szükség. 
