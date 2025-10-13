@@ -162,9 +162,9 @@ A főbb átadandók és határidők a projekt időtartama alatt a következők:
 | Szállítandó |                 Neve                                                        |   Határideje  |
 |:-----------:|:---------------------------------------------------------------------------:|:-------------:|
 |      D1     |      Projektterv és Gantt chart, prezentáció, egyéni jelentés               | `2025-10-13`  |
-|    P1+D2    |      UML, adatbázis- és képernyőtervek, prezentáció, egyéni jelentés        | `2021-10-27`  |
-|    P1+D3    |      Prototípus I. és tesztelési dokumentáció, egyéni jelentés              | `2021-11-10`  |
-|    P2+D4    |      Prototípus II. és frissített tesztelési dokumentáció, egyéni jelentés  | `2021-11-24`  |
+|    P1+D2    |      UML, adatbázis- és képernyőtervek, prezentáció, egyéni jelentés        | `2025-10-27`  |
+|    P1+D3    |      Prototípus I. és tesztelési dokumentáció, egyéni jelentés              | `2025-11-10`  |
+|    P2+D4    |      Prototípus II. és frissített tesztelési dokumentáció, egyéni jelentés  | `2025-12-01`  |
 
 
 
@@ -191,7 +191,7 @@ Erőforrásigény:  `1 személynap/fő`
 
 #### 8.1.2. Bemutató elkészítése
 
-Felelős: `Géczi Zsófia`
+Felelős: `Géczi Zsófia, Fehér Dajana`
 
 Tartam:  `2 nap`
 
