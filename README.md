@@ -1,3 +1,3 @@
 # rendszerfejlesztes2025_b
 Rendszerfejlesztés B - csoport
-Veszprémi Csongor - Fehér Dajana
+Veszprémi Csongor - Fehér Dajana - Géczi Zsófia
