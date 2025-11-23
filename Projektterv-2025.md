@@ -77,12 +77,8 @@ A projekt a következő munkaállomásokat fogja használni a munka során:
 
 A projekt a következő technológiákat/szoftvereket fogja használni a munka során: 
 
- - `Heroku platformszolgáltatás a webalkalmazás hosztolásához`
- - `Heroku által biztosított PostgreSQL adatbázisszerver`
- - `Spring Boot keretrendszer`
- - `Thymeleaf dinamikus tartalom megjelenítés a felhasználói felületen`
- - `Maven szoftverprojekt menedzselő szoftver`
- - `Eclipse IDE fejlesztőkörnyezet`
+ - `Discord`
+ - `Visual Studio`
  - `Git verziókövető (GitLab)`
  
 ```
@@ -112,8 +108,8 @@ Szükség esetén hét közben is összehívható egy második csoportgyűlés.`
 
 `1. megbeszélés:`
  - `Időpont: 2025.10.05.`
- - `Hely: SZTE Irinyi épület - Szeged, Tisza Lajos krt. 103`
- - `Résztvevők: TFehér Dajana, Géczi Zsófia, Veszprémi Csongor`
+ - `Hely: Csiga pékség`
+ - `Résztvevők: Fehér Dajana, Géczi Zsófia, Veszprémi Csongor`
  - `Érintett témák: Ismerkedés, projekttéma kiválasztása`
 
 `2. megbeszélés:`
@@ -162,8 +158,8 @@ A főbb átadandók és határidők a projekt időtartama alatt a következők:
 | Szállítandó |                 Neve                                                        |   Határideje  |
 |:-----------:|:---------------------------------------------------------------------------:|:-------------:|
 |      D1     |      Projektterv és Gantt chart, prezentáció, egyéni jelentés               | `2025-10-13`  |
-|    P1+D2    |      UML, adatbázis- és képernyőtervek, prezentáció, egyéni jelentés        | `2025-10-27`  |
-|    P1+D3    |      Prototípus I. és tesztelési dokumentáció, egyéni jelentés              | `2025-11-10`  |
+|    P1+D2    |      UML, adatbázis- és képernyőtervek, prezentáció, egyéni jelentés        | `2025-11-09`  |
+|    P1+D3    |      Prototípus I. és tesztelési dokumentáció, egyéni jelentés              | `2025-11-24`  |
 |    P2+D4    |      Prototípus II. és frissített tesztelési dokumentáció, egyéni jelentés  | `2025-12-01`  |
 
 
@@ -197,4 +193,4 @@ Tartam:  `2 nap`
 
 Erőforrásigény:  `0.5 személynap`
 
-Szeged, `2021-10-25`.
+Szeged, `2025-10-25`.
